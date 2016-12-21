@@ -6,4 +6,9 @@ class Login extends Index
 	{
 		return 'Please Log in to your account';
 	}
+	
+	public function RegisterPage()
+	{
+		return 'Hey Jo';
+	}
 }
