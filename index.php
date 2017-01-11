@@ -8,3 +8,7 @@ class Index
 		return $output;
 	}
 }
+?>
+<div>
+	Pero Kvržica
+</div>
