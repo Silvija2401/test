@@ -7,4 +7,9 @@ class Index
 		$output = 'Hello Africa';
 		return $output;
 	}
+	public function RegisterPage()
+	{
+		return 'Hey Jo';
+		
+	}
 }
