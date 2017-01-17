@@ -7,9 +7,17 @@ class Index
 		$output = 'Hello Africa';
 		return $output;
 	}
+<<<<<<< HEAD
 	public function RegisterPage()
 	{
 		return 'Hey Jo';
 		
 	}
 }
+=======
+}
+?>
+<div>
+	Pero Kvržica
+</div>
+>>>>>>> frontend
